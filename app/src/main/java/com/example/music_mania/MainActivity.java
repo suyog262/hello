@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void btn2(View view) {
-        Toast.makeText(this,"The selected date is "+hours+"/"+min+"/"+"\n",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"The selected dateeg is "+hours+"/"+min+"/"+"\n",Toast.LENGTH_SHORT).show();
 
     }
     
